@@ -16,7 +16,7 @@
         <script>
         // Hàm chuyển trang
         function goToIndex() {
-            window.location.href = "Web/Game/index.html";
+            window.location.href = "Game/index.html";
         }
         </script>
 
