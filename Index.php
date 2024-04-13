@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <link href="C:\xampp\htdocs\demo1\site.css" rel="stysheet" />
-    <title>Hello World Script</title>
+    <title>Ehe</title>
 </head>
 
 <body>
