@@ -45,7 +45,7 @@
     <div id="wrapper">
 
         <!-- Button chuyển sang index.html -->
-        <button onclick="goToIndex()">Play Game</button>
+        <button onclick="goToIndex()">Play Games</button>
 
         <script>
         // Hàm chuyển trang
